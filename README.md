@@ -4,7 +4,7 @@
 
 Pemain ditantang untuk menyambung kata berdasarkan huruf terakhir dari kata sebelumnya. Game ini mendukung input suara (Voice Recognition) dan memiliki fitur validasi cerdas untuk memastikan kata yang digunakan valid dalam Bahasa Indonesia dan sesuai dengan tema yang dipilih.
 
-![UI Preview](https://via.placeholder.com/800x400?text=Sambung+Kata+AI+Preview)
+![UI Preview](./preview.png)
 
 ## ✨ Fitur Unggulan
 
