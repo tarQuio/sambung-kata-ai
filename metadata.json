@@ -1,0 +1,7 @@
+{
+  "name": "Sambung Kata AI",
+  "description": "Game asah otak sambung kata (Word Chain) Bahasa Indonesia. Main lawan teman (Lokal) atau lawan AI super pintar. Mendukung input suara.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
